@@ -19,7 +19,7 @@ body{
     text-align: center;
 }
 .headerText  .bigSize{
- font-size: 35px;
+ font-size: 22px;
  color: hsl(229, 6%, 66%);
 
  
@@ -91,6 +91,9 @@ margin-left: 230px;
     .cardContainer{
        flex-direction: row;
        justify-content: center;
+    }
+    .headerText .bigSize{
+        font-size:35px;
     }
     .card1{
         gr
